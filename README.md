@@ -12,4 +12,4 @@ Run the script:
 
 python detect.py
 
-The detected image is saved in the project folder.
+The detected image is saved in the project folder.   
