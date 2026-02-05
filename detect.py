@@ -16,3 +16,4 @@ results = model(
 )
 
 print("Detection completed. Check the D folder!")
+
