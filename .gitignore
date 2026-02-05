@@ -20,6 +20,3 @@ results/
 .DS_Store
 Thumbs.db
 
-# Large model weights (optional)
-
-*.pt
