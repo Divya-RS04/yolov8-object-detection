@@ -1,0 +1,25 @@
+# Virtual environment
+
+venv/
+.env/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+
+# YOLO output folders
+
+runs/
+output/
+results/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Large model weights (optional)
+
+*.pt
