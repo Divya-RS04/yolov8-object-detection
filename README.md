@@ -1,15 +1,12 @@
-# YOLOv8 Object Detection
+YOLOv8 Object Detection
 
-A simple Python project that uses the YOLOv8 pre-trained model to perform object detection on an sample image.
+This project performs basic object detection using a pre-trained YOLOv8 model.
 
-## Usage
+How to Run
 
-Install dependencies:
+Install dependencies:pip install -r requirements.txt
 
-pip install -r requirements.txt
+Run the detection script:python detect.py
 
-Run the script:
-
-python detect.py
-
-The detected image is saved in the project folder.   
+Output
+The detected image with bounding boxes is saved in the output folder.
